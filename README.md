@@ -1,5 +1,12 @@
 # carousel_slider_with_dots_indicator
 
+<div>
+<video controls>
+  <source src="https://github.com/ahmed9107/carousel_slider_with_dots_indicator/blob/main/Preview.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</div>
+
 A new Flutter project.
 
 ## Getting Started
