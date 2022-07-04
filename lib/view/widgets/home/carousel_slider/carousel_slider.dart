@@ -53,12 +53,14 @@ class _CarouselSliderState extends State<CarouselSlider> {
                   var currentScale = _scaleFactor +
                       (_currentPageValue - index + 1) * (1 - _scaleFactor);
                   var currTrans = _height * (1 - currentScale) / 2;
+                  matrix = Matrix4.diagonal3Values(1, currentScale, 1);
                   matrix = Matrix4.diagonal3Values(1, currentScale, 1)
                     ..setTranslationRaw(0, currTrans, 0);
                 } else if (index == _currentPageValue.floor() - 1) {
-                  var currentScale = _scaleFactor +
-                      (_currentPageValue - index) * (1 - _scaleFactor);
+                  var currentScale =
+                      1 - (_currentPageValue - index) * (1 - _scaleFactor);
                   var currTrans = _height * (1 - currentScale) / 2;
+                  matrix = Matrix4.diagonal3Values(1, currentScale, 1);
                   matrix = Matrix4.diagonal3Values(1, currentScale, 1)
                     ..setTranslationRaw(0, currTrans, 0);
                 } else {
