@@ -1,15 +1,6 @@
 # carousel_slider_with_dots_indicator
 
-<div>
-<details open class="details-reset border rounded-2">
-<video src="https://github.com/ahmed9107/carousel_slider_with_dots_indicator/blob/main/Preview.mp4" data-canonical-src="https://github.com/ahmed9107/carousel_slider_with_dots_indicator/blob/main/Preview.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
-</video>
-</details>
-</div>
+## Preview
 
-### Preview
-
-
-https://github.com/ahmed9107/carousel_slider_with_dots_indicator/blob/main/Preview.mp4
-
+https://user-images.githubusercontent.com/65602987/183222052-1f5c0547-4093-41f8-9b68-1ea080a6afe8.mp4
 
