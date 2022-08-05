@@ -1,10 +1,10 @@
 # carousel_slider_with_dots_indicator
 
 <div>
-<video controls>
-  <source src="https://github.com/ahmed9107/carousel_slider_with_dots_indicator/blob/main/Preview.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+<details>
+<video src="https://github.com/ahmed9107/carousel_slider_with_dots_indicator/blob/main/Preview.mp4" data-canonical-src="https://github.com/ahmed9107/carousel_slider_with_dots_indicator/blob/main/Preview.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
 </video>
+</details>
 </div>
 
 A new Flutter project.
