@@ -7,8 +7,10 @@
 </details>
 </div>
 
+### Preview
 
-[https://user-images.githubusercontent.com/6877923/115474571-03c75800-a23e-11eb-8096-8973aad5fa9f.mp4](https://github.com/ahmed9107/carousel_slider_with_dots_indicator/blob/main/Preview.mp4)
+
+https://github.com/ahmed9107/carousel_slider_with_dots_indicator/blob/main/Preview.mp4
 
 
 Earth Heightmap node:
